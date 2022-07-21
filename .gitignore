@@ -1,1 +1,2 @@
-env1
+env1/
+django_blog_project/__pycache__/
