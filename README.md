@@ -4,6 +4,8 @@ BlogIt is a website where users can register, and create new posts on a variety 
 
 ## Usage
 
+Visit : https://blogit-dev.herokuapp.com/
+
 Clone this repository at the a suitable location in your local machine using the command-
 
 ```bash
